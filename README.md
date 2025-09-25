@@ -30,3 +30,4 @@ We applied and compared multiple regression models to estimate car prices and ev
 - Jupyter Notebook  
 
 ## Repo Structure
+Used_Car_Price_Prediction.ipynb   # main notebook containing full workflow
