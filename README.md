@@ -1,7 +1,4 @@
 # Used-Car-Price-Prediction
-Predicting used car prices to support pricing insights and decision-making through machine learning regression techniques.
-
-# Used Car Price Prediction
 
 This project builds an end-to-end machine learning pipeline to predict used car prices based on vehicle attributes such as make, model, year, mileage, and engine specifications.  
 
